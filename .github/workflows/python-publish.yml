@@ -39,7 +39,7 @@ jobs:
         git pull
         git add .
         git diff
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "tasddc@naver.com"
+        git config --local user.name "tasddc1226"
         git commit -m "Update README.md"
         git push
