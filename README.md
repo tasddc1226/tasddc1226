@@ -12,6 +12,8 @@
 <hr/>  
 
 ## Recent My Posts
+[[ C++ ] 프로그래머스: 서울에서 김서방 찾기](https://tasddc.tistory.com/110) - Dec 21, 2021</br>
+[[ C++ ] 프로그래머스: 두 정수 사이의 합](https://tasddc.tistory.com/109) - Dec 21, 2021</br>
 [[ Rotate Matrix ] 2차원 배열 회전 알고리즘](https://tasddc.tistory.com/108) - Dec 20, 2021</br>
 [[ C++ ] 백준 1107: 리모컨](https://tasddc.tistory.com/105) - Dec 16, 2021</br>
 [[ Genetic Algorithm ] 유전 알고리즘을 통해 비밀번호를 뚫어보자!](https://tasddc.tistory.com/104) - Dec 14, 2021</br>
@@ -20,5 +22,3 @@
 [[ C++ ] 프로그래머스: 로또의 최고 순위와 최저 순위](https://tasddc.tistory.com/99) - Dec 10, 2021</br>
 [[ C++ ] 프로그래머스: 가운데 글자 가져오기](https://tasddc.tistory.com/98) - Dec 09, 2021</br>
 [[ Historical Review ] 딥러닝 기본 용어 설명](https://tasddc.tistory.com/97) - Dec 08, 2021</br>
-[[ Average Filter ] 실시간으로 들어오는 데이터의 평균을 구해보자!](https://tasddc.tistory.com/96) - Dec 08, 2021</br>
-[[ python ] 프로그래머스: 문자열 내림차순 정렬](https://tasddc.tistory.com/95) - Dec 07, 2021</br>
