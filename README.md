@@ -22,4 +22,4 @@
 [[ C++ ] 백준 1107: 리모컨](https://tasddc.tistory.com/105) - Dec 16, 2021</br>
 [[ Genetic Algorithm ] 유전 알고리즘을 통해 비밀번호를 뚫어보자!](https://tasddc.tistory.com/104) - Dec 14, 2021</br>
 [[ python ] 프로그래머스: 수박수박수박수박수?](https://tasddc.tistory.com/103) - Dec 14, 2021</br>
-</br>last updated at 2021/12/29 00:36:09
+</br>last updated at 2021/12/30 00:36:25
