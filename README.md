@@ -22,4 +22,4 @@
 [[ C++ ] 프로그래머스: 두 정수 사이의 합](https://tasddc.tistory.com/109) - Dec 21, 2021</br>
 [[ Rotate Matrix ] 2차원 배열 회전 알고리즘](https://tasddc.tistory.com/108) - Dec 20, 2021</br>
 [[ C++ ] 백준 1107: 리모컨](https://tasddc.tistory.com/105) - Dec 16, 2021</br>
-</br>last updated at 2021/12/31 00:37:50
+</br>last updated at 2022/01/01 00:37:59
