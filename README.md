@@ -22,4 +22,4 @@
 [[ Nest ] postgresDB를 이용한 CRUD 앱 만들기 (2)](https://tasddc.tistory.com/112) - Dec 22, 2021</br>
 [[ Nest ] postgresDB를 이용한 CRUD 앱 만들기 (1)](https://tasddc.tistory.com/111) - Dec 21, 2021</br>
 [[ C++ ] 프로그래머스: 서울에서 김서방 찾기](https://tasddc.tistory.com/110) - Dec 21, 2021</br>
-</br>last updated at 2022/01/23 00:35:21
+</br>last updated at 2022/01/24 00:34:48
