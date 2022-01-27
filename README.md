@@ -12,6 +12,9 @@
 <hr/>  
 
 ## Recent My Posts
+[[ React + Firebase ] It looks like you're using ... warning 해결하기](https://tasddc.tistory.com/122) - Jan 27, 2022</br>
+[[ MFC, C++ ] BYTE to CString, CString to int 형변환](https://tasddc.tistory.com/121) - Jan 26, 2022</br>
+[[React Error] expected `onclick` listener to be a function, instead got a value of `object` type.](https://tasddc.tistory.com/120) - Jan 26, 2022</br>
 [[ C++ ] 프로그래머스 Level 1: 핸드폰 번호 가리기](https://tasddc.tistory.com/119) - Jan 11, 2022</br>
 [[ C++ ] 프로그래머스 Level1: 문자열 내 p와 y의 개수](https://tasddc.tistory.com/118) - Jan 11, 2022</br>
 [[ C++ ] 프로그래머스: 같은 숫자는 싫어](https://tasddc.tistory.com/117) - Jan 04, 2022</br>
@@ -19,7 +22,4 @@
 [[ C++ ] 프로그래머스: 약수의 합](https://tasddc.tistory.com/115) - Dec 30, 2021</br>
 [[ Nest ] postgresDB를 이용한 CRUD 앱 만들기 (3)](https://tasddc.tistory.com/114) - Dec 23, 2021</br>
 [[ Observer 소개 ] 날씨를 제보하고 코인을 받아보자](https://tasddc.tistory.com/113) - Dec 22, 2021</br>
-[[ Nest ] postgresDB를 이용한 CRUD 앱 만들기 (2)](https://tasddc.tistory.com/112) - Dec 22, 2021</br>
-[[ Nest ] postgresDB를 이용한 CRUD 앱 만들기 (1)](https://tasddc.tistory.com/111) - Dec 21, 2021</br>
-[[ C++ ] 프로그래머스: 서울에서 김서방 찾기](https://tasddc.tistory.com/110) - Dec 21, 2021</br>
-</br>last updated at 2022/01/26 00:40:10
+</br>last updated at 2022/01/27 00:35:36
