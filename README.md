@@ -22,4 +22,4 @@
 [[ C++ ] 프로그래머스: 약수의 합](https://tasddc.tistory.com/115) - Dec 30, 2021</br>
 [[ Nest ] postgresDB를 이용한 CRUD 앱 만들기 (3)](https://tasddc.tistory.com/114) - Dec 23, 2021</br>
 [[ Observer 소개 ] 날씨를 제보하고 코인을 받아보자](https://tasddc.tistory.com/113) - Dec 22, 2021</br>
-</br>last updated at 2022/02/04 00:36:25
+</br>last updated at 2022/02/05 00:31:11
