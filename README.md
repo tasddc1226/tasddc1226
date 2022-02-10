@@ -12,6 +12,7 @@
 <hr/>  
 
 ## Recent My Posts
+[[ NestJS ] Repository Pattern에 대하여 알아보자](https://tasddc.tistory.com/124) - Feb 09, 2022</br>
 [[ NestJS + mongoose ] virtual field에 대하여 알아보자](https://tasddc.tistory.com/123) - Feb 08, 2022</br>
 [[ React + Firebase ] It looks like you're using ... warning 해결하기](https://tasddc.tistory.com/122) - Jan 27, 2022</br>
 [[ MFC, C++ ] BYTE to CString, CString to int 형변환](https://tasddc.tistory.com/121) - Jan 26, 2022</br>
@@ -21,5 +22,4 @@
 [[ C++ ] 프로그래머스: 같은 숫자는 싫어](https://tasddc.tistory.com/117) - Jan 04, 2022</br>
 [[ C++ ] 프로그래머스: 나누어 떨어지는 숫자 배열](https://tasddc.tistory.com/116) - Dec 30, 2021</br>
 [[ C++ ] 프로그래머스: 약수의 합](https://tasddc.tistory.com/115) - Dec 30, 2021</br>
-[[ Nest ] postgresDB를 이용한 CRUD 앱 만들기 (3)](https://tasddc.tistory.com/114) - Dec 23, 2021</br>
-</br>last updated at 2022/02/09 00:40:08
+</br>last updated at 2022/02/10 00:38:31
