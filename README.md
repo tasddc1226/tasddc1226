@@ -22,4 +22,4 @@
 [[ C++ ] 프로그래머스: 같은 숫자는 싫어](https://tasddc.tistory.com/117) - Jan 04, 2022</br>
 [[ C++ ] 프로그래머스: 나누어 떨어지는 숫자 배열](https://tasddc.tistory.com/116) - Dec 30, 2021</br>
 [[ C++ ] 프로그래머스: 약수의 합](https://tasddc.tistory.com/115) - Dec 30, 2021</br>
-</br>last updated at 2022/02/12 00:40:27
+</br>last updated at 2022/02/13 00:40:55
