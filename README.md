@@ -12,14 +12,14 @@
 <hr/>  
 
 ## Recent My Posts
-[[ C++ ] 프로그래머스 Level2: 다음 큰 숫자](https://tasddc.tistory.com/125) - Feb 14, 2022</br>
-[[ NestJS ] Repository Pattern에 대하여 알아보자](https://tasddc.tistory.com/124) - Feb 09, 2022</br>
-[[ NestJS + mongoose ] virtual field에 대하여 알아보자](https://tasddc.tistory.com/123) - Feb 08, 2022</br>
-[[ React + Firebase ] It looks like you're using ... warning 해결하기](https://tasddc.tistory.com/122) - Jan 27, 2022</br>
-[[ MFC, C++ ] BYTE to CString, CString to int 형변환](https://tasddc.tistory.com/121) - Jan 26, 2022</br>
-[[React Error] expected `onclick` listener to be a function, instead got a value of `object` type.](https://tasddc.tistory.com/120) - Jan 26, 2022</br>
-[[ C++ ] 프로그래머스 Level 1: 핸드폰 번호 가리기](https://tasddc.tistory.com/119) - Jan 11, 2022</br>
-[[ C++ ] 프로그래머스 Level1: 문자열 내 p와 y의 개수](https://tasddc.tistory.com/118) - Jan 11, 2022</br>
-[[ C++ ] 프로그래머스: 같은 숫자는 싫어](https://tasddc.tistory.com/117) - Jan 04, 2022</br>
-[[ C++ ] 프로그래머스: 나누어 떨어지는 숫자 배열](https://tasddc.tistory.com/116) - Dec 30, 2021</br>
-</br>last updated at 2022/02/16 00:39:25
+[[ Django ] postgresql을 사용할 때 migration 관련 오류](https://tasddc.tistory.com/137) - Apr 24, 2022</br>
+[[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#final](https://tasddc.tistory.com/136) - Apr 22, 2022</br>
+[[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#3](https://tasddc.tistory.com/135) - Apr 12, 2022</br>
+[[ Python ] 유용한 라이브러리 정리](https://tasddc.tistory.com/134) - Apr 06, 2022</br>
+[[ Study ] 코드 리뷰를 하는 이유가 무엇일까?](https://tasddc.tistory.com/133) - Apr 06, 2022</br>
+[[ NestJS ] CSR, SSR MVC 패턴에 대해서 알아보자](https://tasddc.tistory.com/132) - Apr 06, 2022</br>
+[[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#2](https://tasddc.tistory.com/131) - Apr 01, 2022</br>
+[[ Study ]  실무와 가까워지는 백엔드 개발 스터디.세션_#1](https://tasddc.tistory.com/130) - Mar 28, 2022</br>
+[[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129) - Mar 22, 2022</br>
+[[ 회고록 ] IPP 일학습 병행 자격을 마치며..](https://tasddc.tistory.com/128) - Mar 17, 2022</br>
+</br>last updated at 2022/05/07 01:14:21
