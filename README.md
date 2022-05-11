@@ -22,4 +22,4 @@
 [[ Study ]  실무와 가까워지는 백엔드 개발 스터디.세션_#1](https://tasddc.tistory.com/130) - Mar 28, 2022</br>
 [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129) - Mar 22, 2022</br>
 [[ 회고록 ] IPP 일학습 병행 자격을 마치며..](https://tasddc.tistory.com/128) - Mar 17, 2022</br>
-</br>last updated at 2022/05/10 01:10:02
+</br>last updated at 2022/05/11 01:28:17
