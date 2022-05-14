@@ -12,6 +12,7 @@
 <hr/>  
 
 ## Recent My Posts
+[[ 원티드 프리온보딩 ] MadUp - 매체별 기간 내 광고 효율 분석](https://tasddc.tistory.com/138) - May 13, 2022</br>
 [[ Django ] postgresql을 사용할 때 migration 관련 오류](https://tasddc.tistory.com/137) - Apr 24, 2022</br>
 [[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#final](https://tasddc.tistory.com/136) - Apr 22, 2022</br>
 [[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#3](https://tasddc.tistory.com/135) - Apr 12, 2022</br>
@@ -21,5 +22,4 @@
 [[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#2](https://tasddc.tistory.com/131) - Apr 01, 2022</br>
 [[ Study ]  실무와 가까워지는 백엔드 개발 스터디.세션_#1](https://tasddc.tistory.com/130) - Mar 28, 2022</br>
 [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129) - Mar 22, 2022</br>
-[[ 회고록 ] IPP 일학습 병행 자격을 마치며..](https://tasddc.tistory.com/128) - Mar 17, 2022</br>
-</br>last updated at 2022/05/13 01:41:09
+</br>last updated at 2022/05/14 01:44:14
