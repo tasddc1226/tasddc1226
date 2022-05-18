@@ -7,9 +7,6 @@ now = time.localtime()
 
 markdown_text = """
 
-## PS Boj Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasddc)](https://solved.ac/tasddc/)
-
 ## My Github Status
 <img src="https://github-readme-stats.vercel.app/api?username=tasddc1226&show_icons=true&hide_border=true&theme=tokyonight"/>
  
