@@ -1,8 +1,5 @@
 
 
-## PS Boj Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasddc)](https://solved.ac/tasddc/)
-
 ## My Github Status
 <img src="https://github-readme-stats.vercel.app/api?username=tasddc1226&show_icons=true&hide_border=true&theme=tokyonight"/>
  
@@ -22,4 +19,4 @@
 [[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#2](https://tasddc.tistory.com/131) - Apr 01, 2022</br>
 [[ Study ]  실무와 가까워지는 백엔드 개발 스터디.세션_#1](https://tasddc.tistory.com/130) - Mar 28, 2022</br>
 [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129) - Mar 22, 2022</br>
-</br>last updated at 2022/05/18 01:12:42
+</br>last updated at 2022/05/18 07:25:30
