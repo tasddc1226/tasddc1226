@@ -1,4 +1,4 @@
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Node.js,nestjs,django)](https://github.com/tasddc1226)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=django,Node.js,Nest.js)](https://github.com/tasddc1226)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,Node.js,NestJS,Python,Django,C%2B%2B)](https://github.com/tasddc1226)
 
