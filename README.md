@@ -1,22 +1,13 @@
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Node.js,nestjs,django)](https://github.com/tasddc1226)
 
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,Node.js,Nest,Python,Django,C%2B%2B)](https://github.com/tasddc1226)
 
-## My Github Status
-<img src="https://github-readme-stats.vercel.app/api?username=tasddc1226&show_icons=true&hide_border=true&theme=tokyonight"/>
- 
-### Total Visitor
-![](https://komarev.com/ghpvc/?username=tasddc1226&color=red&style=plastic)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firebase,Git,GitHub,Slack,Notion)](https://github.com/tasddc1226)
 
-<hr/>  
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=tasddc1226&repo=MoaData-Wanted-A&locale=ko)](https://github.com/tasddc1226/MoaData-Wanted-A)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=tasddc1226&repo=Madup-Wanted-A&locale=ko)](https://github.com/tasddc1226/Madup-Wanted-A)
 
-## Recent My Posts
-[[ 원티드 프리온보딩 ] MadUp - 매체별 기간 내 광고 효율 분석](https://tasddc.tistory.com/138) - May 13, 2022</br>
-[[ Django ] postgresql을 사용할 때 migration 관련 오류](https://tasddc.tistory.com/137) - Apr 24, 2022</br>
-[[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#final](https://tasddc.tistory.com/136) - Apr 22, 2022</br>
-[[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#3](https://tasddc.tistory.com/135) - Apr 12, 2022</br>
-[[ Python ] 유용한 라이브러리 정리](https://tasddc.tistory.com/134) - Apr 06, 2022</br>
-[[ Study ] 코드 리뷰를 하는 이유가 무엇일까?](https://tasddc.tistory.com/133) - Apr 06, 2022</br>
-[[ NestJS ] CSR, SSR MVC 패턴에 대해서 알아보자](https://tasddc.tistory.com/132) - Apr 06, 2022</br>
-[[ Study ] 실무와 가까워지는 백엔드 개발 스터디.세션_#2](https://tasddc.tistory.com/131) - Apr 01, 2022</br>
-[[ Study ]  실무와 가까워지는 백엔드 개발 스터디.세션_#1](https://tasddc.tistory.com/130) - Mar 28, 2022</br>
-[[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129) - Mar 22, 2022</br>
-</br>last updated at 2022/05/23 01:18:00
+<br>
+
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=tasddc1226&repo=Human-Scape-Wanted-A&locale=ko)](https://github.com/tasddc1226/Human-Scape-Wanted-A)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=tasddc1226&repo=Bear-Robotics-Wanted-A&locale=ko)](https://github.com/tasddc1226/Bear-Robotics-Wanted-A)
