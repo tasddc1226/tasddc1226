@@ -11,13 +11,3 @@ Hi There! 🙋‍♂️
     <a href="https://www.linkedin.com/in/tasddc1226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
     <a href="https://www.instagram.com/yangswimzz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
-
-
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Python,Django,NestJS,JavaScript,TypeScript,Node.js,C%2B%2B)](https://github.com/tasddc1226)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firebase,Git,GitHub,Slack,Notion,Docker,Nginx)](https://github.com/tasddc1226)
-
-
-
-
